@@ -1,29 +1,12 @@
 #####################################################################
-#
-# CSC258H Winter 2021 Assembly Final Project
-# University of Toronto, St. George
-#
-# Student: Muhammad Sohaib Saqib, 1005870041
-#
+# Personal MIPS Assembly Language Project
+# Author: Muhammad Sohaib Saqib
 # Bitmap Display Configuration:
 # - Unit width in pixels: 8
 # - Unit height in pixels: 8
 # - Display width in pixels: 256
 # - Display height in pixels: 256
 # - Base Address for Display: 0x10008000 ($gp)
-#
-# Which milestone is reached in this submission?
-# (See the project handout for descriptions of the milestones)
-# - Milestone 1
-#
-# Which approved additional features have been implemented?
-#
-# Any additional information that the TA needs to know:
-# - I have fully completed Milestone 1 along with some parts of Milestone 2 in this submission, that is movement of the bug blaster
-# - The brown squares represent the mushrooms
-# - The pink chain is the centipede with a white head
-# - The green square in the first row represents the flea
-# - The blue square at the bottom represents the bug blaster 
 #####################################################################
 
 
