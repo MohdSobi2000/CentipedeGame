@@ -1,31 +1,12 @@
 #####################################################################
-#
-# CSC258H Winter 2021 Assembly Final Project
-# University of Toronto, St. George
-#
-# Student: Muhammad Sohaib Saqib, 1005870041
-#
+# Personal MIPS Assembly Language Project
+# Author: Muhammad Sohaib Saqib
 # Bitmap Display Configuration:
 # - Unit width in pixels: 8
 # - Unit height in pixels: 8
 # - Display width in pixels: 256
 # - Display height in pixels: 256
 # - Base Address for Display: 0x10008000 ($gp)
-#
-# Which milestone is reached in this submission?
-# (See the project handout for descriptions of the milestones)
-# - Milestone 1, 2 and 3
-#
-# Which approved additional features have been implemented?
-# N/A
-#
-# Any additional information that the TA needs to know:
-# - The brown squares represent the mushrooms
-# - The pink chain is the centipede with a white head
-# - The green square moving zig zag represents the flea
-# - The blue square at the bottom represents the bug blaster 
-# - The yellow squares shot by the blaster represent the darts
-# - All keys as described in the handout are functional, along with the additional 'Q' key, which resets the game
 #####################################################################
 
 .data
